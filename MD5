@@ -1,0 +1,9 @@
+f56e011748d17b4cfc3abb17cf59f778 *DESCRIPTION
+6da59eaf83d56037ad970ca52223cf7b *LICENSE
+ceee7b74e2edeac3c6243bca34ce268e *NAMESPACE
+409f42ab09e74001080e7af7518760c4 *R/MedPCParser.R
+395fff018a51cfb84f8b49587d946128 *inst/extdata/ExampleMPCOutput.txt
+16fff3eb87c5a2d3d7cfc95275d2b05e *man/DecimalStringToInteger.Rd
+99543d63c23a4ab255aaafad565ef9a1 *man/PullStringFromIndex.Rd
+cb5c1a89ae6608ae556cc13acd58252a *man/PullStringFromTextSearch.Rd
+fa43ff4e732e60c5c9c6e4946911a14e *man/TimestampPull.Rd
